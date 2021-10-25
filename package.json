@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sayanbakirbayev/skillbox-test/issues"
   },
-  "homepage": "https://github.com/sayanbakirbayev/skillbox-test#readme"
+  "homepage": "https://github.com/sayanbakirbayev/skillbox-test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
 }
